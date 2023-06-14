@@ -16,8 +16,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Overview
 
 ### The challenge
-The challenge is to create a 3-column preview card component with the View the optimal layout of my screen size, and also a responsiveness of mobile creen size of 375px.
-Another challenge is tpo create a hover states for interactive elements.
+The challenge is to create a 3-column preview card component with the View the optimal layout of desktop (1440px), and also a responsiveness of mobile creen size of 375px.
+Another challenge is to create hover states for interactive elements.
 
 ### Links
 GITHUB REPOSITORY URL: https://github.com/OnojaPeter/3-column-preview-card-using-CSS-FLEXBOX.git
@@ -32,7 +32,7 @@ Css Flexbox
 Most important lesson i learnt was that i was able to use my eyes to get some dimensions that look almost perfect to the intended image to replicate. Also the use of the hover states was quite interesting.
 
 ### continued development
-I will like to further my education on other displays like Css Grid to be able to this design
+I will like to further my education on other displays like Css Grid to be able to do this design
 
 ## Author
 Twitter - [@mr_GudGuy](https://www.twitter.com/mr_GudGuy)
